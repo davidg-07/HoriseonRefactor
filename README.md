@@ -7,6 +7,6 @@ In this project I did a simple Refactor for the webpage.
 * I also fixed the issue with the link for search engine optimization.
 
 ## final link 
-[horiseon refactor] (file:///C:/Users/david/BootCamp/UofA-VIRT-FSF-PT-04-2022-U-LOLC/01-HTML-Git-CSS/02-Challenge/Develop/index.html#search-engine-optimization)
+[horiseon refactor] (https://davidg-07.github.io/HoriseonRefactor/)
 
 ![Final webpage example](./screencapture-file-C-Users-david-BootCamp-UofA-VIRT-FSF-PT-04-2022-U-LOLC-01-HTML-Git-CSS-02-Challenge-Develop-index-html-2022-05-01-18_28_10.png)
